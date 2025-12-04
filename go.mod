@@ -1,4 +1,4 @@
-module tests
+module github.com/jmasters-git/porcupine-syncmap
 
 go 1.24
 
